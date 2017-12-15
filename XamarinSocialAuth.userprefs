@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{46091E7F-73D9-4F6D-81A8-9320FA83E3E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="XamarinSocialAuth/App.xaml.cs" Line="13" Column="10" />
+      <File FileName="XamarinSocialAuth/XamarinSocialAuthPage.xaml" Line="7" Column="1" />
+      <File FileName="XamarinSocialAuth/XamarinSocialAuthPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="43" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinSocialAuth.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E143B697-5FDE-4349-A686-ECE443D42397">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamarinSocialAuth.iOS>
+</Properties>
